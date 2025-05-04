@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 About Me  
+Welcome to my GitHub page!  
 
-<!--
-**Luann00/Luann00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ambitious Master's student in Information Systems at the University of Cologne, currently in my second semester. Since mid-2023, I've been working as a software engineering working student, with a focus on frontend development using Vue.
 
-Here are some ideas to get you started:
+I’m driven by a love for solving real problems with code and for continuously expanding my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Current Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,vue,react,mysql)](https://skillicons.dev)
+
+---
+
+### 📊 Most Used Programming Languages  
+![Luann00's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann00&layout=compact&theme=default)

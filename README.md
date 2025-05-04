@@ -1,7 +1,7 @@
 ### 👋 About Me  
 Welcome to my GitHub page!  
 
-I'm an ambitious Master's student in Information Systems at the University of Cologne, currently in my second semester. Since mid-2023, I've been working as a software engineering working student, with a focus on frontend development using Vue.
+I'm an ambitious Master's student in Information Systems at the University of Cologne and currently in my second semester. Since July 2024, I've been working as a software engineering working student, with a focus on frontend development using Vue.
 
 I’m driven by a love for solving real problems with code and for continuously expanding my knowledge.
 

@@ -1,14 +1,20 @@
-### 👋 About Me  
-Welcome to my GitHub page!  
+### 👋 About Me
+I'm a Master's student in Information Systems at the University of Cologne, currently in my third semester.  
+Since July 2024, I've been working as a working student in software engineering, focusing on frontend development with Vue. In this role, I have also gained my first practical experience in backend development and am continuously expanding my skills toward full-stack development.  
 
-I'm a Master's student in Information Systems at the University of Cologne and currently in my second semester. Since July 2024, I've been working as a software engineering working student, with a focus on frontend development using Vue.
+Beyond coding, I really enjoy working with others to understand what's needed and why, and then turning those ideas into real, working solutions. I genuinely interested in the whole process of software engineering, from understanding requirements and the reason behind a project to actually building and improving it.
 
 ---
 
-### 💻 My Current Tech Stack  
+### 💻 My Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,vue,react,mysql)](https://skillicons.dev)
 
 ---
 
-### 📊 Most Used Programming Languages  
+### 💡 Currently Learning
+I'm deepening my backend knowledge with **Spring Boot**, connecting frontend and backend, and learning some **Docker** for containerization.
+
+---
+
+### 📊 Most Used Programming Languages
 ![Luann00's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann00&layout=compact&theme=default)

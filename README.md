@@ -12,7 +12,7 @@ Beyond coding, I really enjoy working with others to understand what's needed an
 ---
 
 ### 💡 Currently Learning
-I'm deepening my backend knowledge with **Spring Boot**, connecting frontend and backend, and learning some **Docker** for containerization.
+I'm currently deepening my backend knowledge with **Spring Boot**, and learning some **Docker** for containerization.
 
 ---
 

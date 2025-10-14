@@ -4,6 +4,8 @@ Since July 2024, I've been working as a working student in software engineering,
 
 Beyond coding, I really enjoy working with others to understand what's needed and why, and then turning those ideas into real, working solutions. I genuinely interested in the whole process of software engineering, from understanding requirements and the reason behind a project to actually building and improving it.
 
+You can find more about me at [luanzekiri.com](https://luanzekiri.com).
+
 ---
 
 ### 💻 My Current Tech Stack

@@ -14,7 +14,7 @@ You can find more about me at [luanzekiri.com](https://luanzekiri.com).
 ---
 
 ### 💡 Currently Learning
-I'm currently deepening my backend knowledge with **Spring Boot**, and learning some **Docker** for containerization.
+I'm currently deepening my backend knowledge with **Spring Boot**, and learning some **Docker**.
 
 ---
 

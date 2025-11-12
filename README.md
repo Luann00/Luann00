@@ -7,7 +7,7 @@ Beyond coding, I really enjoy working with others to understand what's needed an
 ---
 
 ### 💻 My Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,vue,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,vue,react,mysql)](https://skillicons.dev)
 
 ---
 
